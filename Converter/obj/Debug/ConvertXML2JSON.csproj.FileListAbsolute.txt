@@ -1,0 +1,7 @@
+C:\Users\kcaballero\Desktop\Class\XML2JSON-master\XML2JSON.Core\bin\Debug\XML2JSON.Core.dll
+C:\Users\kcaballero\Desktop\Class\XML2JSON-master\XML2JSON.Core\bin\Debug\XML2JSON.Core.pdb
+C:\Users\kcaballero\Desktop\Class\XML2JSON-master\XML2JSON.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kcaballero\Desktop\Class\XML2JSON-master\XML2JSON.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kcaballero\Desktop\Class\XML2JSON-master\XML2JSON.Core\obj\Debug\ConvertXML2JSON.csprojResolveAssemblyReference.cache
+C:\Users\kcaballero\Desktop\Class\XML2JSON-master\XML2JSON.Core\obj\Debug\XML2JSON.Core.dll
+C:\Users\kcaballero\Desktop\Class\XML2JSON-master\XML2JSON.Core\obj\Debug\XML2JSON.Core.pdb

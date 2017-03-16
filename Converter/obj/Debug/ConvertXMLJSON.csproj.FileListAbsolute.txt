@@ -1,0 +1,12 @@
+C:\Users\kcaballero\Desktop\Class\XML2JSON-master\XML2JSON.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kcaballero\Desktop\Class\XML2JSON-master\XML2JSON.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kcaballero\Desktop\Class\XML2JSON-master\XML2JSON.Core\bin\Debug\ConvertXMLJSON.dll
+C:\Users\kcaballero\Desktop\Class\XML2JSON-master\XML2JSON.Core\bin\Debug\ConvertXMLJSON.pdb
+C:\Users\kcaballero\Desktop\Class\XML2JSON-master\XML2JSON.Core\obj\Debug\ConvertXMLJSON.dll
+C:\Users\kcaballero\Desktop\Class\XML2JSON-master\XML2JSON.Core\obj\Debug\ConvertXMLJSON.pdb
+C:\Users\kcaballero\Desktop\Class\FileConverter\Converter\bin\Debug\ConvertXMLJSON.dll
+C:\Users\kcaballero\Desktop\Class\FileConverter\Converter\bin\Debug\ConvertXMLJSON.pdb
+C:\Users\kcaballero\Desktop\Class\FileConverter\Converter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kcaballero\Desktop\Class\FileConverter\Converter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kcaballero\Desktop\Class\FileConverter\Converter\obj\Debug\ConvertXMLJSON.dll
+C:\Users\kcaballero\Desktop\Class\FileConverter\Converter\obj\Debug\ConvertXMLJSON.pdb
