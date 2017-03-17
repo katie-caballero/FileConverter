@@ -12,7 +12,9 @@ namespace FileConverter
     {
         static void Main()
         {
+            //store the name of the output file to write to
             string outputFile;
+            //test if input file is xml or json
             bool bFileIsXml = true;
 
             Console.WriteLine("Welcome to Katie's File Converter.");
@@ -23,7 +25,8 @@ startOfProgram:
 
 
             Console.WriteLine("input file: {0}", inputFile);
-
+            
+            //store the input file contents
             string fileContents;
             string fileType = Path.GetExtension(inputFile);
 
@@ -46,6 +49,7 @@ startOfProgram:
 
             try
             {
+                //read in contents of input file
                 using (FileStream inputFileStream = File.OpenRead(inputFile))
                 {
                     using (StreamReader inputStreamReader = new StreamReader(inputFileStream))
@@ -61,11 +65,13 @@ startOfProgram:
                 Console.WriteLine("Error: Could not read file.");
                 goto endOfProgram;
             }
-
+            
+            //store converted file contents
             string convertedFile = String.Empty;
 
             if (bFileIsXml)
             {
+                //convert file to json
                 convertedFile = Converter.ConvertToJson(fileContents);
                 Console.WriteLine("Converted xml to json");
 
@@ -84,6 +90,7 @@ startOfProgram:
             }
             else
             {
+                //convert file to xml
                XmlDocument doc = Converter.ConvertToXML(fileContents);
 
                 Console.WriteLine("Converted json to xml");
